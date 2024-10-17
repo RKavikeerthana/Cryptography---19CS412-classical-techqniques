@@ -1,5 +1,5 @@
 # Cryptography---19CS412-classical-techqniques
-# Caeser Cipher
+# CIPHER
 Caeser Cipher using with different key values
 
 # AIM:
