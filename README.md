@@ -1,5 +1,5 @@
 
-## Caeser Cipher
+## CAESER CIPHER
 Caeser Cipher using with different key values
 
 ## DATE:
