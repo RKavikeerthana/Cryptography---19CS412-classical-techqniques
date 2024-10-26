@@ -1,6 +1,8 @@
-# Cryptography---19CS412-classical-techqniques
-# Caeser Cipher
+
+## Caeser Cipher
 Caeser Cipher using with different key values
+
+## DATE:
 
 # AIM:
 
@@ -100,7 +102,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-02 142727](https://github.com/user-attachments/assets/b276b1d5-58b5-41b4-bab5-c75180f4a7b8)
+![image](https://github.com/user-attachments/assets/be010950-f7a5-4d6f-823c-a289c4f8040c)
+
 
 
 ## RESULT:
@@ -110,6 +113,8 @@ The program is executed successfully
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
+
+## DATE:
 
 # AIM:
 
@@ -303,7 +308,7 @@ int main() {
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "KEERTHANA");
+    strcpy(str, "KAVIKEERTHANA");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -319,7 +324,8 @@ int main() {
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/3eb0448d-4b22-42aa-9c9b-8854796d9e05)
+![image](https://github.com/user-attachments/assets/722cc0fc-4fe4-40ac-8013-1990bd346a5d)
+
 
 
 ## RESULT:
@@ -330,6 +336,8 @@ The program is executed successfully
 
 # Hill Cipher
 Hill Cipher using with different key values
+
+## DATE:
 
 # AIM:
 
@@ -405,7 +413,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "KEERTHANA");
+    strcpy(msg, "KAVIKEERTHANA");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -454,7 +462,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/82e4d7c4-101c-4bef-8989-193527d2e364)
+![image](https://github.com/user-attachments/assets/57408c25-55f9-4d98-865e-5863fedcb28f)
+
 
 ## RESULT:
 The program is executed successfully
@@ -463,6 +472,8 @@ The program is executed successfully
 
 # Vigenere Cipher
 Vigenere Cipher using with different key values
+
+## DATE:
 
 # AIM:
 
@@ -566,7 +577,8 @@ void decipher() {
 
 ```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b2eccba2-7174-4f30-b375-7722bf5ca2c6)
+![image](https://github.com/user-attachments/assets/2a8a3a1d-d9ed-499a-a53a-5b8474922c00)
+
 
 ## RESULT:
 The program is executed successfully
@@ -575,6 +587,8 @@ The program is executed successfully
 
 # Rail Fence Cipher
 Rail Fence Cipher using with different key values
+
+## DATE:
 
 # AIM:
 
@@ -659,7 +673,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/18e3e130-13c7-49dc-ba1f-16e9c9c5d4ae)
+![image](https://github.com/user-attachments/assets/6fbe94d2-6292-4540-b580-1624838ad69c)
+
 
 ## RESULT:
 The program is executed successfully
